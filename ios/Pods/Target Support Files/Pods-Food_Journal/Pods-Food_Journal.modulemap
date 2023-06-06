@@ -1,0 +1,6 @@
+module Pods_Food_Journal {
+  umbrella header "Pods-Food_Journal-umbrella.h"
+
+  export *
+  module * { export * }
+}
